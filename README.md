@@ -13,7 +13,7 @@
 ## 校验值
 
 ```text
-f3ddffffa2dcd7a5285d659b13b24a977a171f0263f54fee7466109c6d1fbfa1  fengxu-kefu-windows-x64-v0.1.0.zip
-9440e98ffe8c03ba87f29f37c9dd9834d88622ab721bc1439aafeba509f20fb6  fengxu-kefu-macos-arm64-v0.1.0.zip
-1300c07161269d6ba0550e06de7d27631fad6877606bccae75092580fa68eb23  fengxu-kefu-macos-x64-v0.1.0.zip
+3935a96724413ee5af1b3d680ca78f73657e6df1861dcd6639484401f4c963fa  fengxu-kefu-windows-x64-v0.1.0.zip
+347d256d2635ad39071fa078ecfd9de4d783379f4c4427b4351bde6647e58d0e  fengxu-kefu-macos-arm64-v0.1.0.zip
+56feed7d1c517818b1a324f46f41e2a786dc42833734cd3df69fdfa30ef9a8a8  fengxu-kefu-macos-x64-v0.1.0.zip
 ```
